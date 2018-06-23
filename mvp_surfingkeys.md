@@ -19,21 +19,17 @@
 </div>
 <div>
     <span class="kbd-span">
-        <kbd>?</kbd>
-    </span>
-    <span class="annotation">Show usage</span>
-</div>
-<div>
-    <span class="kbd-span">
         <kbd>&lt;Alt-i&gt;</kbd>
     </span>
-    <span class="annotation">suppress SurfingKeys</span>
+    <span class="annotation">Suppress SurfingKeys</span>
 </div>
 </div>
-
 <div>
-    <div class="feature_name">
-        <span>Mouse Click</span>
+    <div>
+        <span class="kbd-span">
+            <kbd>f</kbd>
+        </span>
+        <span class="annotation">Open a link </span>
     </div>
     <div>
         <span class="kbd-span">
@@ -49,18 +45,6 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>gi</kbd>
-        </span>
-        <span class="annotation">Go to the first edit box</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>f</kbd>
-        </span>
-        <span class="annotation">Open a link </span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>af</kbd>
         </span>
         <span class="annotation">Open a link in new tab</span>
@@ -70,6 +54,12 @@
             <kbd>C</kbd>
         </span>
         <span class="annotation">Open a link in non-active new tab</span>
+    </div>
+    <div>
+        <span class="kbd-span">
+            <kbd>gi</kbd>
+        </span>
+        <span class="annotation">Go to the first edit box</span>
     </div>
     <div>
         <span class="kbd-span">

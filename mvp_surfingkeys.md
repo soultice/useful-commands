@@ -7,18 +7,6 @@
 </div>
 <div>
     <span class="kbd-span">
-        <kbd>sql</kbd>
-    </span>
-    <span class="annotation">Show last action</span>
-</div>
-<div>
-    <span class="kbd-span">
-        <kbd>.</kbd>
-    </span>
-    <span class="annotation">Repeat last action</span>
-</div>
-<div>
-    <span class="kbd-span">
         <kbd>&lt;Alt-i&gt;</kbd>
     </span>
     <span class="annotation">Suppress SurfingKeys</span>
@@ -87,12 +75,6 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>q</kbd>
-        </span>
-        <span class="annotation">Click on an Image or a button</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>[[</kbd>
         </span>
         <span class="annotation">Click on the previous link on current page</span>
@@ -107,12 +89,6 @@
 <div>
     <div class="feature_name">
         <span>Scroll Page / Element</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>0</kbd>
-        </span>
-        <span class="annotation">Scroll all the way to the left</span>
     </div>
     <div>
         <span class="kbd-span">

@@ -51,12 +51,6 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>i</kbd>
-        </span>
-        <span class="annotation">Go to edit box</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>I</kbd>
         </span>
         <span class="annotation">Go to edit box with vim editor</span>
@@ -72,18 +66,6 @@
             <kbd>&lt;Ctrl-i&gt;</kbd>
         </span>
         <span class="annotation">Go to edit box with vim editor</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>[[</kbd>
-        </span>
-        <span class="annotation">Click on the previous link on current page</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>]]</kbd>
-        </span>
-        <span class="annotation">Click on the next link on current page</span>
     </div>
 </div>
 <div>
@@ -137,24 +119,6 @@
             <kbd>k</kbd>
         </span>
         <span class="annotation">Scroll up</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>h</kbd>
-        </span>
-        <span class="annotation">Scroll left</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>l</kbd>
-        </span>
-        <span class="annotation">Scroll right</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>$</kbd>
-        </span>
-        <span class="annotation">Scroll all the way to the right</span>
     </div>
     <div>
         <span class="kbd-span">
@@ -235,24 +199,6 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>zr</kbd>
-        </span>
-        <span class="annotation">zoom reset</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>zi</kbd>
-        </span>
-        <span class="annotation">zoom in</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>zo</kbd>
-        </span>
-        <span class="annotation">zoom out</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>T</kbd>
         </span>
         <span class="annotation">Choose a tab</span>
@@ -312,18 +258,6 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>gT</kbd>
-        </span>
-        <span class="annotation">Go to first activated tab</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>gt</kbd>
-        </span>
-        <span class="annotation">Go to last activated tab</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>gu</kbd>
         </span>
         <span class="annotation">Go up one path in the URL</span>
@@ -345,24 +279,6 @@
             <kbd>su</kbd>
         </span>
         <span class="annotation">Edit current URL with vim editor</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>B</kbd>
-        </span>
-        <span class="annotation">Go one tab history back</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>F</kbd>
-        </span>
-        <span class="annotation">Go one tab history forward</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Ctrl-6&gt;</kbd>
-        </span>
-        <span class="annotation">Go to last used tab</span>
     </div>
     <div>
         <span class="kbd-span">
@@ -418,18 +334,6 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>sb</kbd>
-        </span>
-        <span class="annotation">Search selected with baidu</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>sw</kbd>
-        </span>
-        <span class="annotation">Search selected with bing</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>ss</kbd>
         </span>
         <span class="annotation">Search selected with stackoverflow</span>
@@ -439,12 +343,6 @@
             <kbd>sh</kbd>
         </span>
         <span class="annotation">Search selected with github</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>sy</kbd>
-        </span>
-        <span class="annotation">Search selected with youtube</span>
     </div>
 </div>
 <div>
@@ -577,12 +475,6 @@
         </span>
         <span class="annotation">Fill form with data from yf</span>
     </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>;pp</kbd>
-        </span>
-        <span class="annotation">Paste html on current page</span>
-    </div>
 </div>
 <div>
     <div class="feature_name">
@@ -632,39 +524,15 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>ob</kbd>
-        </span>
-        <span class="annotation">Open Search with alias b</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>og</kbd>
-        </span>
-        <span class="annotation">Open Search with alias g</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>ow</kbd>
         </span>
         <span class="annotation">Open Search with alias w</span>
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>oy</kbd>
-        </span>
-        <span class="annotation">Open Search with alias y</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>H</kbd>
         </span>
         <span class="annotation">Open opened URL in current tab</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>Q</kbd>
-        </span>
-        <span class="annotation">Open omnibar for word translation</span>
     </div>
     <div>
         <span class="kbd-span">
@@ -692,12 +560,6 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>&lt;Ctrl-j&gt;</kbd>
-        </span>
-        <span class="annotation">Toggle Omnibar's position</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>&lt;Ctrl-.&gt;</kbd>
         </span>
         <span class="annotation">Show results of next page</span>
@@ -710,27 +572,9 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>&lt;Ctrl-c&gt;</kbd>
-        </span>
-        <span class="annotation">Copy all listed items</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Ctrl-D&gt;</kbd>
-        </span>
-        <span class="annotation">Delete all listed items from bookmark or history</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>&lt;Ctrl-r&gt;</kbd>
         </span>
         <span class="annotation">Re-sort history by visitCount or lastVisitTime</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Esc&gt;</kbd>
-        </span>
-        <span class="annotation">Close Omnibar</span>
     </div>
     <div>
         <span class="kbd-span">
@@ -755,30 +599,6 @@
             <kbd>&lt;Ctrl-'&gt;</kbd>
         </span>
         <span class="annotation">Toggle quotes in an input element</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;ArrowDown&gt;</kbd>
-        </span>
-        <span class="annotation">Forward cycle through the candidates.</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;ArrowUp&gt;</kbd>
-        </span>
-        <span class="annotation">Backward cycle through the candidates.</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Ctrl-n&gt;</kbd>
-        </span>
-        <span class="annotation">Forward cycle through the candidates.</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Ctrl-p&gt;</kbd>
-        </span>
-        <span class="annotation">Backward cycle through the candidates.</span>
     </div>
 </div>
 <div>
@@ -827,97 +647,7 @@
         </span>
         <span class="annotation">Find selected text in current page</span>
     </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>0</kbd>
-        </span>
-        <span class="annotation">backward lineboundary</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>l</kbd>
-        </span>
-        <span class="annotation">forward character</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>h</kbd>
-        </span>
-        <span class="annotation">backward character</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>j</kbd>
-        </span>
-        <span class="annotation">forward line</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>k</kbd>
-        </span>
-        <span class="annotation">backward line</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>w</kbd>
-        </span>
-        <span class="annotation">forward word</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>e</kbd>
-        </span>
-        <span class="annotation">forward word</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>b</kbd>
-        </span>
-        <span class="annotation">backward word</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>)</kbd>
-        </span>
-        <span class="annotation">forward sentence</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>(</kbd>
-        </span>
-        <span class="annotation">backward sentence</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>}</kbd>
-        </span>
-        <span class="annotation">forward paragraphboundary</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>{</kbd>
-        </span>
-        <span class="annotation">backward paragraphboundary</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>$</kbd>
-        </span>
-        <span class="annotation">forward lineboundary</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>G</kbd>
-        </span>
-        <span class="annotation">forward documentboundary</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>gg</kbd>
-        </span>
-        <span class="annotation">backward documentboundary</span>
-    </div>
-    <div>
+     <div>
         <span class="kbd-span">
             <kbd>gr</kbd>
         </span>
@@ -925,75 +655,9 @@
     </div>
     <div>
         <span class="kbd-span">
-            <kbd>o</kbd>
-        </span>
-        <span class="annotation">Go to Other end of highlighted text</span>
-    </div>
-    <div>
-        <span class="kbd-span">
             <kbd>*</kbd>
         </span>
         <span class="annotation">Search word under the cursor</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Enter&gt;</kbd>
-        </span>
-        <span class="annotation">Click on node under cursor.</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>zz</kbd>
-        </span>
-        <span class="annotation">make cursor at center of window.</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>f</kbd>
-        </span>
-        <span class="annotation">Forward to next char.</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>F</kbd>
-        </span>
-        <span class="annotation">Backward to next char.</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>;</kbd>
-        </span>
-        <span class="annotation">Repeat latest f, F</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>,</kbd>
-        </span>
-        <span class="annotation">Repeat latest f, F in opposite direction</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>q</kbd>
-        </span>
-        <span class="annotation">Translate word under cursor</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>V</kbd>
-        </span>
-        <span class="annotation">Select a word(w) or line(l) or sentence(s) or paragraph(p)</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Ctrl-u&gt;</kbd>
-        </span>
-        <span class="annotation">Backward 20 lines</span>
-    </div>
-    <div>
-        <span class="kbd-span">
-            <kbd>&lt;Ctrl-d&gt;</kbd>
-        </span>
-        <span class="annotation">Forward 20 lines</span>
     </div>
 </div>
 <div>
